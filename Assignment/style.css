@@ -1,0 +1,15 @@
+li {
+    list-style: none
+}
+
+ul {
+    margin-top: 40px;
+}
+
+ a{
+    text-decoration: none;
+} 
+.col-10 {
+    background-color: rgb(174, 178, 182);
+}
+  
